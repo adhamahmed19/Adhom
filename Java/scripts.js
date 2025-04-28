@@ -78,6 +78,7 @@ function buyProduct(name, price, image) {
     localStorage.setItem('productImage', image);
     
     window.location.href = "../html/cart.html";
+    https:"//adhamahmed19.github.io/html/cart.html";
     // window.location.href = "https://radyshawer.github.io/Final_project/html/cart.html";
     // window.location.href = "https://adhamahmed19.github.io/front/html/cart.html";
 }
